@@ -9,7 +9,8 @@
 <!-- TemplateEndEditable -->
 <link href="../styles/main.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
-
+body,td,th {
+	font-family: "Coalition Regular";
 }
 body {
 	background-color: #7F12DC;
