@@ -9,7 +9,7 @@ rem Set the path.
 set path=%path%;%gourceloc%;%gitloc%
 
 rem Run gource.
-gource --user-image-dir H:\avatar -f -1280x720 -e 1.0 --bloom-multiplier 2.0 --bloom-intensity 1.0 --key --title "Nitricity"
+gource --user-image-dir H:\avatar -f -1280x720 -e 1.0 --bloom-multiplier 2.0 --bloom-intensity 1.0 --key --title "Nitricity" --logo H:\avatar\nitricity.jpg
 
 rem Pause.
 pause
