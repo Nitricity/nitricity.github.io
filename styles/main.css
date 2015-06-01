@@ -17,3 +17,8 @@ table {
    font-family: Coalition Regular; 
    src: url(text/Coalition_v2..ttf);
 } 
+
+ .parallax-container {
+      height: "500";
+    }
+        

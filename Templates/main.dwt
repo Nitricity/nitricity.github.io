@@ -12,9 +12,12 @@
 body,td,th {
 	font-family: "Coalition Regular";
 }
-body {
-	background-color: #7F12DC;
+body { background-image:url(../res/bg.png);
 }
+   <div class="parallax-container">
+      <div class="parallax"><img src="res/bg.png"></div>
+    </div>
+	
 </style>
 </head>
 
