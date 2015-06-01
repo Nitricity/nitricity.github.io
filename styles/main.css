@@ -12,3 +12,8 @@ table {
 
 .img { opacity::1.0;
 }
+
+@font-face {
+   font-family: Coalition Regular; 
+   src: url(text/Coalition_v2..ttf);
+} 

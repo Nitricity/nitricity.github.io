@@ -9,8 +9,7 @@
 <!-- TemplateEndEditable -->
 <link href="../styles/main.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
-body,td,th {
-	font-family: "Coalition Regular";
+
 }
 body {
 	background-color: #7F12DC;
@@ -21,7 +20,7 @@ body {
 <body>
 <table width="1200" height="2000" border="0" align="center">
   <tr>
-    <td height="200"><img src="../Resources/Table/Banner.png" class="img" /></td>
+    <td height="200"><img src="../res/banner.png" class="img" /></td>
   </tr>
   <tr>
     <td height="100">&nbsp;</td>
