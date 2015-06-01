@@ -14,9 +14,14 @@ body,td,th {
 }
 body { background-image:url(../res/bg.png);
 }
-   <div class="parallax-container">
-      <div class="parallax"><img src="res/bg.png"></div>
-    </div>
+ <div class="parallax">
+  <div class="parallax__layer parallax__layer--back">
+    ...
+  </div>
+  <div class="parallax__layer parallax__layer--base">
+    ...
+  </div>
+</div>
 	
 </style>
 </head>
