@@ -1,0 +1,26 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>maintemp</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<table width="1280" height="2000" border="0" align="center">
+  <tr>
+    <td height="200">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="100">&nbsp;</td>
+  </tr>
+  <tr>
+    <td height="1700" valign="top" align="left"><!-- TemplateBeginEditable name="body" -->body<!-- TemplateEndEditable --></td>
+  </tr>
+</table>
+</body>
+</html>
