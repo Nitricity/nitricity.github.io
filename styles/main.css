@@ -39,5 +39,5 @@ td.opaque {
 	text-wrap:  suppress;
 }
 
-.align { vertical-align:central ; opacity:0.5 ;
+.align { vertical-align:central ; text-wrap:suppress ;
 }
