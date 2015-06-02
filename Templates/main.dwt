@@ -10,7 +10,7 @@
 <link href="../styles/main.css" rel="stylesheet" type="text/css" />
 <style type="text/css">
 body, td, th {
-	font-family: "Coalition Regular";
+	font-family: "Coalition Regular"; font-size:24px
 }
 
 	
@@ -40,13 +40,13 @@ function MM_swapImage() { //v3.0
 </script>
 </head>
 
-<body background="../res/bg pattern.jpg" style="background-position:center" onload="MM_preloadImages('../res/buttons/home mouseover.png','../res/buttons/about mouseover.png')">
+<body background="../res/bg pattern.jpg" style="background-position:center" onload="MM_preloadImages('../res/buttons/home mouseover.png','../res/buttons/about mouseover.png','../res/buttons/gallery mouseover.png','../res/buttons/youtube mouseover.png','../res/buttons/contact mouseover.png')">
 <table width="1200" height="2000" border="0" align="center">
   <tr>
     <td height="200" class="opaque"><img src="../res/banner1.png" class="img" /></td>
   </tr>
   <tr>
-    <td height="100" background="../res/bg pattern.jpg" align="center"><a href="../index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','../res/buttons/home mouseover.png',1)"><img src="../res/buttons/home.png" alt="Home" width="75" height="75" id="home" /></a><a href="../about.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','../res/buttons/about mouseover.png',1)"><img src="../res/buttons/about.png" alt="About" width="75" height="75" id="about" /></a></td>
+    <td height="100" background="../res/bg pattern.jpg" align="center"><a href="../index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','../res/buttons/home mouseover.png',1)"><img src="../res/buttons/home.png" alt="Home" width="75" height="75" id="home" /></a><a href="../gallery.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gallery','','../res/buttons/gallery mouseover.png',1)"><img src="../res/buttons/gallery.png" alt="Gallery" width="75" height="75" id="gallery" /></a><a href="../youtubevideos.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('youtube','','../res/buttons/youtube mouseover.png',1)"><img src="../res/buttons/youtube.png" alt="Youtube" width="75" height="75" id="youtube" /></a><a href="../about.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','../res/buttons/about mouseover.png',1)"><img src="../res/buttons/about.png" alt="About" width="75" height="75" id="about" /></a><a href="../contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','../res/buttons/contact mouseover.png',1)"><img src="../res/buttons/contact.png" alt="Contact" width="75" height="75" id="contact" /></a></td>
   </tr>
   <tr>
     <td height="1700" valign="top" align="left"><!-- TemplateBeginEditable name="body" -->body<!-- TemplateEndEditable --></td>
