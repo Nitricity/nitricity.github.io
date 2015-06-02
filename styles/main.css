@@ -38,3 +38,6 @@ td.opaque {
 	font-weight: lighter;
 	text-wrap:  suppress;
 }
+
+.align { vertical-align:central ; opacity:0.5 ;
+}
