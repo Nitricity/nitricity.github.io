@@ -1,37 +1,40 @@
-/* CSS Document */
-
-
-
-
 table {
-	align-content:center ;
+	align-content:center;
 }
 
 td {
-	opacity:1.0;
-	background-color:#CCC;
+	opacity:           1.0;
+	background-color: #CCC;
 }
 
+/* obsolete - td now uses 1.0 opacity */
 td.opaque {
-	opacity:10;
+	opacity:1.0;
 }
 
 @font-face {
-   font-family: Coalition Regular; 
-   src: url(text/Coalition_v2..ttf);
-} 
-
-.img { opacity:1.0 ;
+   font-family:   Coalition Regular; 
+   src: url(text/coalition.ttf);
 }
 
-.table { border:#000 ; border-width:medium ; 
+.table {
+	border:         #000;
+	border-width: medium; 
 }
 
-.slideshow { vertical-align:top ; height:500 ; crop:1200x500 ;
+.slideshow {
+	vertical-align: top;
+	height:         500;
+	crop:      1200x500;
 }
 
-.buttons { vertical-align:central ;
+.buttons {
+	vertical-align: central;
 }
 
-.bodytext { font-size: 50 ; color:#222222 ; font-weight: lighter ; text-wrap:suppress ;
+.bodytext {
+	font-size:        50;
+	color:       #222222;
+	font-weight: lighter;
+	text-wrap:  suppress;
 }
