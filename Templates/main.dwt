@@ -12,13 +12,12 @@
 body,td,th {
 	font-family: "Coalition Regular";
 }
-body { background-image:url(../res/bg.png);
-}
+
 	
 </style>
 </head>
 
-<body>
+<body style="background-position:center" background="../res/bg.png">
 <table width="1200" height="2000" border="0" align="center">
   <tr>
     <td height="200" class="opaque"><img src="../res/banner.png" class="img" /></td>
