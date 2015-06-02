@@ -8,12 +8,12 @@ table {
 }
 
 td {
-	opacity:0.4;
+	opacity:1.0;
 	background-color:#CCC;
 }
 
 td.opaque {
-	opacity:1;
+	opacity:10;
 }
 
 @font-face {
@@ -21,11 +21,14 @@ td.opaque {
    src: url(text/Coalition_v2..ttf);
 } 
 
-.img { alignment-adjust:central ;
+.img { alignment-adjust:central ; opacity:1.0 ;
 }
 
 .table { border:#000 ; border-width:medium ; 
 }
 
 .slideshow { vertical-align:top ; height:500 ; crop:1200x500 ;
+}
+
+.buttons { vertical-align:central ;
 }
