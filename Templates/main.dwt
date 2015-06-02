@@ -17,10 +17,10 @@ body,td,th {
 </style>
 </head>
 
-<body style="background-position:center" background="../res/bg.png">
+<body style="background-position:center" background="../res/bg pattern.jpg">
 <table width="1200" height="2000" border="0" align="center">
   <tr>
-    <td height="200" class="opaque"><img src="../res/banner.png" class="img" /></td>
+    <td height="200" class="opaque"><img src="../res/banner1.png" class="img" /></td>
   </tr>
   <tr>
     <td height="100">&nbsp;</td>
