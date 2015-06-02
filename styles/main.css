@@ -24,4 +24,8 @@ td.opaque {
 .img { alignment-adjust:central ;
 }
 
+.table { border:#000 ; border-width:medium ; 
+}
 
+.slideshow { vertical-align:top ; height:500 ; crop:1200x500 ;
+}
