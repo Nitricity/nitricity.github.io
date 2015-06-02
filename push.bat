@@ -13,3 +13,5 @@ set /p commitmsg=Enter commit message:
 git commit -m "%commitmsg%"
 
 git push
+
+PAUSE
