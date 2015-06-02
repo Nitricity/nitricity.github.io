@@ -1,9 +1,9 @@
 @echo off
 rem The location of Gource. Set this to the root directory where gource.exe is.
-set gourceloc=C:\Users\10scockburn.BHS.001\Downloads\gource-0.42.win32
+set gourceloc=C:\Users\Shawn cockburn\Downloads\gource-0.42.win32
 
 rem The git location. Set this to the git /bin folder.
-set gitloc=E:\portable ui\PortableApps\GitPortable\App\Git\bin
+set gitloc=C:\Users\Shawn cockburn\Downloads\Git\bin
 
 rem Set the path.
 set path=%path%;%gourceloc%;%gitloc%
