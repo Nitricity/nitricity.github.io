@@ -21,7 +21,7 @@ td.opaque {
    src: url(text/Coalition_v2..ttf);
 } 
 
-.img { alignment-adjust:central ; opacity:1.0 ;
+.img { opacity:1.0 ;
 }
 
 .table { border:#000 ; border-width:medium ; 
@@ -33,5 +33,5 @@ td.opaque {
 .buttons { vertical-align:central ;
 }
 
-.bodytext { font-size: 50 ; color:#222222 ; font-weight: lighter ;
+.bodytext { font-size: 50 ; color:#222222 ; font-weight: lighter ; text-wrap:suppress ;
 }
