@@ -20,6 +20,10 @@ td.opaque {
    src: url(../res/font/Faktos.ttf)
 }
 
+.body {
+	font-family:Verdana, Geneva, sans-serif;
+}
+
 .table {
 	border:         #000;
 	border-width: medium; 
