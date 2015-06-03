@@ -41,3 +41,6 @@ td.opaque {
 	font-weight: lighter;
 	text-wrap:  suppress;
 }
+
+.aboutpage { text-align: left ; vertical-align:top ;
+}
