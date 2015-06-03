@@ -5,17 +5,20 @@ table {
 td {
 	opacity:           1.0;
 	background-color: #CCC;
+	text-align:     center;
 }
 
-/* obsolete - td now uses 1.0 opacity */
+/* obsolete - td now uses 1.0 opacity
+   don't remove until all elements of the table don't use the opaque class*/
 td.opaque {
 	opacity:1.0;
 }
 
-@font-face {
+/*The font is causing lag - use a smaller one!*/
+/*@font-face {
    font-family:   Coalition Regular; 
-   src: url(text/coalition.ttf);
-}
+   src:     url(text/coalition.ttf);
+}*/
 
 .table {
 	border:         #000;
@@ -37,7 +40,4 @@ td.opaque {
 	color:       #222222;
 	font-weight: lighter;
 	text-wrap:  suppress;
-}
-
-.align { vertical-align:central ; text-wrap:suppress ;
 }

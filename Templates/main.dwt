@@ -41,15 +41,15 @@ function MM_swapImage() { //v3.0
 </head>
 
 <body background="../res/bgpattern.jpg" style="background-position:center" onload="MM_preloadImages('../res/buttons/home_over.png','../res/buttons/about_over.png','../res/buttons/gallery_over.png','../res/buttons/yt_over.png','../res/buttons/contact_over.png')">
-<table width="1200" height="2000" border="0" align="center">
+<table width="1200" border="0" align="center">
   <tr>
-    <td height="200" class="opaque"><img src="../res/banner1.png" class="img" /></td>
+    <td height="200" class="opaque"><img src="../res/banner_experiment01.png" class="img" /></td>
   </tr>
   <tr>
     <td height="100" background="../res/bgpattern.jpg" align="center"><a href="../index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','../res/buttons/home_over.png',1)"><img src="../res/buttons/home_std.png" alt="Home" width="75" height="75" id="home" /></a><a href="../gallery.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('gallery','','../res/buttons/gallery_over.png',1)"><img src="../res/buttons/gallery_std.png" alt="Gallery" width="75" height="75" id="gallery" /></a><a href="../videos.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('youtube','','../res/buttons/yt_over.png',1)"><img src="../res/buttons/yt_std.png" alt="Youtube" width="75" height="75" id="youtube" /></a><a href="../about.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','../res/buttons/about_over.png',1)"><img src="../res/buttons/about_std.png" alt="About" width="75" height="75" id="about" /></a><a href="../contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','../res/buttons/contact_over.png',1)"><img src="../res/buttons/contact_std.png" alt="Contact" width="75" height="75" id="contact" /></a></td>
   </tr>
   <tr>
-    <td height="1700" valign="top" align="left"><!-- TemplateBeginEditable name="body" -->body<!-- TemplateEndEditable --></td>
+    <td height="500px" valign="top"><!-- TemplateBeginEditable name="body" -->body<!-- TemplateEndEditable --></td>
   </tr>
 </table>
 </body>
