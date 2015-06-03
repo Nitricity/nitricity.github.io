@@ -14,11 +14,11 @@ td.opaque {
 	opacity:1.0;
 }
 
-/*The font is causing lag - use a smaller one!*/
-/*@font-face {
-   font-family:   Coalition Regular; 
-   src:     url(text/coalition.ttf);
-}*/
+
+@font-face {
+   font-family: Faktos; 
+   src: url(../res/font/Faktos.ttf)
+}
 
 .table {
 	border:         #000;
