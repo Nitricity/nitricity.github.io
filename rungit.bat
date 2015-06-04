@@ -1,7 +1,7 @@
 @echo off
 color a
 cls
-set path=E:\tedlar\Git\bin
+set path=F:\tedlar\Git\bin
 :start
 set /p cmd=Enter command: 
 %cmd%

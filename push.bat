@@ -1,7 +1,7 @@
 @echo off
 color a
 cls
-set path=%path%;F:\tedlar\Git\bin
+set path=%path%;E:\tedlar\Git\bin
 
 set /p driveltr=Enter drive letter (without colon): 
 %driveltr%:
