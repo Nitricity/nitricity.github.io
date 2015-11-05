@@ -51,3 +51,8 @@ td.opaque {
 }
 
 .pic1 {size:auto ; }
+
+.txt {
+	font-family: Faktos; 
+   src: url(../res/font/Faktos.ttf)
+}
