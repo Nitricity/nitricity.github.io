@@ -56,3 +56,7 @@ td.opaque {
 	font-family: Faktos; 
    src: url(../res/font/Faktos.ttf)
 }
+
+.alignment { alignment-adjust:hanging ; font-family: Faktos; 
+src: url(../res/font/Faktos.ttf)
+}
